@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "socialapp-dd5d7",
+    "socialapp": "socialapp-dd5d7",
+    "flutterapp": "socialapp-dd5d7"
+  }
+}
